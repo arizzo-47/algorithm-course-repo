@@ -1,0 +1,26 @@
+Processing an arrival event at time <-- 1
+Processing an arrival event at time <-- 2
+Processing an arrival event at time <-- 4
+Processing an departure event at time <-- 6
+Processing an departure event at time <-- 11
+Processing an departure event at time <-- 16
+Processing an arrival event at time <-- 20
+Processing an arrival event at time <-- 22
+Processing an arrival event at time <-- 24
+Processing an departure event at time <-- 25
+Processing an arrival event at time <-- 26
+Processing an arrival event at time <-- 28
+Processing an departure event at time <-- 30
+Processing an arrival event at time <-- 30
+Processing an departure event at time <-- 35
+Processing an departure event at time <-- 40
+Processing an departure event at time <-- 45
+Processing an departure event at time <-- 50
+Processing an arrival event at time <-- 88
+Processing an departure event at time <-- 91
+
+Final Statistics:
+Total number of customers processed: 10
+Average Waiting Time: 5.6
+Max waiting time: 15
+Max waiting queue length: 3

@@ -1,0 +1,19 @@
+Condition,Moves,Comparisons
+Selection Best:0,499500
+Selection Worst:1500,499500
+Selection Average:2994,499500
+Bubble Best:0,999
+Bubble Worst:1498500,499500
+Bubble Average:137484,493172
+Insertion Best:0,0
+Insertion Worst:500499,499500
+Insertion Average:46249,45828
+Merge Best:19952,5044
+Merge Worst:19952,4932
+Merge Average:19952,6353
+Quick Best:762,7134
+Quick Worst:5054,12150
+Quick Average:9595,7743
+Heap Best:29124,17583
+Heap Worst:24948,15965
+Heap Average:9873,7036

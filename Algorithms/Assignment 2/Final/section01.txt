@@ -1,0 +1,60 @@
+Mary Clark
+Boston, MA
+22
+11111111
+CE
+3.4
+John Smith
+Dartmouth, NH
+20
+22222222
+CE
+3.8
+Jennifer Lee
+Providence, RI
+21
+33333333
+CS
+3.6
+Robert Brown
+Norton, MA
+19
+44444444
+EE
+3.7
+Linda White
+New York, NY
+23
+55555555
+ME
+3.1
+William Wilson
+Los Angeles, CA
+19
+66666666
+IE
+3.2
+Barbara Harris
+Chicago, IL
+18
+77777777
+CS
+3.9
+David Moore
+Houston, TX
+24
+88888888
+EE
+3.5
+Lisa Garcia
+Phoenix, AZ
+25
+99990000
+CE
+4.0
+Joseph Anderson
+Miami, FL
+26
+99999999
+CE
+3.3
